@@ -1,4 +1,4 @@
-# ETH7820-with-ESP32
+# ESP32 with ETH7820AI
 
 SIMPLE project ESP32 with ETH7820AI, without PHY power and clock out.
 !! Don't use for now !!
